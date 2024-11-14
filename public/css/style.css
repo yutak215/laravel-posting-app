@@ -19,3 +19,7 @@ body {
     position: absolute;
     bottom: 0;
   }
+
+  .show_edit {
+    height: 38px !important;
+  }
